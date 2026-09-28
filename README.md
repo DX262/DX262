@@ -30,7 +30,6 @@ I'm passionate about building modern applications and improving my skills as a d
 
 🚀 **Currently Learning**
 - Cloud Technologies
-- Cybersecurity
 - Clean Architecture
 
 ⚡ **Outside Coding**
