@@ -17,24 +17,23 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Denix
-location: Denmark 🇩🇰
+Hey! I'm Denix, a Datatekniker student from Denmark 🇩🇰
 
-role: Datatekniker Student
+I'm passionate about building modern applications and improving my skills as a developer.
 
-focus:
-  - Full Stack Development
-  - Backend Architecture
-  - Web Applications
-  - Cybersecurity
+💻 **Focus**
+- Full Stack Development
+- C# & ASP.NET Core
+- Angular & TypeScript
+- Database Design
+- Software Architecture
 
-currently_learning:
-  - Cloud Technologies
-  - Security Practices
-  - Better Software Architecture
+🚀 **Currently Learning**
+- Cloud Technologies
+- Cybersecurity
+- Clean Architecture
 
-fun:
-  - Cars 🚗
-  - Gaming 🎮
-  - PC Hardware 🖥️
+⚡ **Outside Coding**
+- 🚗 Cars & technology
+- 🎮 Gaming
+- 🖥️ PC Hardware
