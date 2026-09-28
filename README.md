@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DIT_USERNAME&label=Profile%20Views&color=00e5ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DX262&label=Profile%20Views&color=00e5ff&style=flat" />
 </p>
 
 
