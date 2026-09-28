@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- Header Animation -->
 
-<!--
-**DX262/DX262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hey 👋 I'm Denix
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Building+real+world+applications;Learning+Cybersecurity;Always+improving+my+skills" />
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DIT_USERNAME&label=Profile%20Views&color=00e5ff&style=flat" />
+</p>
+
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Denix
+location: Denmark 🇩🇰
+
+role: Datatekniker Student
+
+focus:
+  - Full Stack Development
+  - Backend Architecture
+  - Web Applications
+  - Cybersecurity
+
+currently_learning:
+  - Cloud Technologies
+  - Security Practices
+  - Better Software Architecture
+
+fun:
+  - Cars 🚗
+  - Gaming 🎮
+  - PC Hardware 🖥️
